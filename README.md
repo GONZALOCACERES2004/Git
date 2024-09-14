@@ -11,8 +11,8 @@ Comando    git reset --hard HEAD~1.
 Rehacer el último commit (el que acabamos de deshacer).
 
 1.	Comando git reflog :  Esto mostrará una lista de todas las acciones recientes, incluyendo el commit que deshicimos.
-2.	
-3.	git reset --hard ffd5540 :Una vez identificado el commit, uso su hash para volver a ese estado
+	
+2.	git reset --hard ffd5540 :Una vez identificado el commit, uso su hash para volver a ese estado
 
 - El merge del paso 13, ¿Causó algún conﬂicto? ¿Por qué?.
 Hacer un merge con ‘main’ (styled absorbe a main).
